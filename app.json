@@ -1,0 +1,25 @@
+{
+    "name": "SHY-001",
+    "description": "SHY-001",
+    "keywords": [""],
+    "env": {
+        "AA": {
+            "description": "",
+            "value": "如出现错误，请检查参数格式或多尝试几次。使用自定义参数请务必先充分理解其含义"
+        },
+        "AUUID": {
+            "description": "",
+            "value": ""
+        },
+        "CADDYIndexPage": {
+            "description": "",
+            "value": ""
+        },
+        "ParameterSSENCYPT": {
+            "description": "",
+            "value": "chacha20-ietf-poly1305"
+        }
+    },
+    "repository": "",
+    "stack": "container"
+}
